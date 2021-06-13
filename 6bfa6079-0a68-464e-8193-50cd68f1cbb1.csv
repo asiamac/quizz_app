@@ -1,0 +1,2 @@
+id;question_type;question;answer_options;correct_answer;penalty_points;time_limit;has_shuffle_answers
+67fe0f36-cefa-4128-b88f-a2acc430300e;7;połącz;[['koń', 'kot', 'lis', 'pies'], ['arabski', 'main coon', 'retriver', 'rudy']];[['koń', 'arabski'], ['kot', 'main coon'], ['lis', 'rudy'], ['pies', 'retriver']];0;0;False

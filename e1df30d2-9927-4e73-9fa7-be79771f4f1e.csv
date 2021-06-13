@@ -1,0 +1,9 @@
+id;question_type;question;answer_options;correct_answer;penalty_points;time_limit;has_shuffle_answers
+0ecb3741-9aa3-4c64-8ace-f4c62b6418ef;0;Ile kot ma łap?;['1', '2', '3', '4'];['4'];0.25;20;True
+5bab3dc9-276d-4f64-9558-dd05d1e1cbc8;1;Wybierz zwierzę:;['kot', 'pies', 'żaba', 'niebo', 'słońce'];['pies', 'kot', 'żaba'];0.25;0;True
+e434f9d2-2b18-4662-9071-9678997b9ac4;2;Czy Golden Retriver to rasa psa?;[True, False];[True];0;0;False
+4ae1e7c8-ac77-4b74-9eab-76e09675c326;3;Polskie powiedzenie mówi, że ktoś żyje jak;[];['kot z psem'];0;0;False
+c8722a97-713b-4f43-a64a-6a11b7fc18f8;4;Wybierz kolory:;['żółty', 'zielony', 'wino', 'burgund', 'szmaragdowy', 'czarny', 'lampa'];['żółty', 'zielony', 'burgund', 'szmaragdowy', 'czarny'];0;0;False
+f1291e52-8052-4419-8553-cb1252336293;5;;['Labradory zaliczamy do', 'które należą do grupy aporterów'];['retiverów'];0;0;False
+588c0119-e5de-4900-9ff4-86afa1826745;6;Posortuj alfabetycznie;['ala', 'ma', 'kota', 'i', 'psa'];['ala', 'i', 'kota', 'ma', 'psa'];0;0;False
+67fe0f36-cefa-4128-b88f-a2acc430300e;7;połącz;[['koń', 'kot', 'lis', 'pies'], ['arabski', 'main coon', 'retriver', 'rudy']];[['koń', 'arabski'], ['kot', 'main coon'], ['lis', 'rudy'], ['pies', 'retriver']];0;0;False
